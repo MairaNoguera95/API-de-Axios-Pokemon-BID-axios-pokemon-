@@ -1,0 +1,39 @@
+.App {
+  text-align: left;
+}
+
+
+
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(184, 150, 150);
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+
+}.pokemon-list {
+  background-color: #f2f2f2;
+  font-size: 20px;
+  color: #333;
+}
+.container{
+  margin-top: 50px;
+}
